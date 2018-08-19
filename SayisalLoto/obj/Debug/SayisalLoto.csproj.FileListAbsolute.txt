@@ -10,3 +10,6 @@ C:\Users\Yunus\source\repos\FormUyg\SayisalLoto\SayisalLoto\obj\Debug\SayisalLot
 C:\Users\yunus.dogan\Desktop\Yunus Doğan\MyProjects\SayisalLoto\SayisalLoto\bin\Debug\SayisalLoto.exe.config
 C:\Users\yunus.dogan\Desktop\Yunus Doğan\MyProjects\SayisalLoto\SayisalLoto\obj\Debug\SayisalLoto.exe
 C:\Users\yunus.dogan\Desktop\Yunus Doğan\MyProjects\SayisalLoto\SayisalLoto\obj\Debug\SayisalLoto.pdb
+C:\Users\Kudret Aydoğan\Source\Repos\SayisalLoto\SayisalLoto\bin\Debug\SayisalLoto.exe.config
+C:\Users\Kudret Aydoğan\Source\Repos\SayisalLoto\SayisalLoto\obj\Debug\SayisalLoto.exe
+C:\Users\Kudret Aydoğan\Source\Repos\SayisalLoto\SayisalLoto\obj\Debug\SayisalLoto.pdb
